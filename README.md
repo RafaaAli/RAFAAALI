@@ -1,7 +1,7 @@
-A Dental graduate who's passionate about technology .
- I'm in a mission to transform healthcare through innovative solutions
-My roots in community service began with medical convoys across Sudan,
- where I witnessed firsthand the challenges of delivering healthcare in
+ A Dental graduate who's passionate about technology .i'm in a mission to transform healthcare through innovative solutions
+
+ My roots in community service began with medical convoys across Sudan, where I witnessed firsthand the challenges of delivering healthcare in
+
  resource-limited settings.
   These experiences ignited my curiosity about how technology could bridge
    critical gaps in medical access.
