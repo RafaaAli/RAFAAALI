@@ -1,15 +1,14 @@
 A Dental graduate who's passionate about technology .
 i'm in a mission to transform healthcare through innovative
-solutions
-My roots in community service began with medical convoys 
-across Sudan.
+solutions.
+My roots in community service began with medical convoys across Sudan.
 where I witnessed firsthand the challenges of delivering
 healthcare inresource-limited settings.
-These experiences ignited my curiosity about how technology 
+These experiences ignited my curiosity about how technology
 could bridgecritical gaps in medical access.
-I'm developing skills to create technological solutions that 
+I'm developing skills to create technological solutions that
 can revolutionize how we approach community health.
-My toolkit combines dental expertise, data analysis, 
+My toolkit combines dental expertise, data analysis,
 and emerging technologies like Al and tele-medicine.
 Currently exploring:
 
